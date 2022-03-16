@@ -1,5 +1,18 @@
 # @backstage/plugin-catalog-backend-module-msgraph
 
+## 0.2.20
+
+### Patch Changes
+
+- 759b32b0ce: support advanced querying capabilities using the config option `queryMode`
+- 89c7e47967: Minor README update
+- 132189e466: Updated the code to handle User kind `spec.memberOf` now being optional.
+- f24ef7864e: Minor typo fixes
+- Updated dependencies
+  - @backstage/plugin-catalog-backend@1.0.0
+  - @backstage/catalog-model@1.0.0
+  - @backstage/config@1.0.0
+
 ## 0.2.19
 
 ### Patch Changes
